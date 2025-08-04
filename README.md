@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing MCA<br>👯 I’m looking to collaborate on Python projects<br><br>AI/ML Enthusiastic<br>
+🔭 I’m currently pursuing MCA<br>Python Developer<br><br>AI/ML Enthusiastic<br>
 
 
 # 💻 Tech Stack:
