@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing MCA<br>Python Developer<br><br>AI/ML Enthusiastic<br>
+🔭 MCA Graduate<br>Data Analyst | Python Developer<br><br>AI/ML Enthusiastic<br>
 
 
 # 💻 Tech Stack:
