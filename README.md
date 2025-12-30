@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analytics and Engineering | Python Development | AI Agents | AWS Practioner
+Data Analytics and Engineering | Python Development | AWS Practioner | Exploring AI Agents 
 
 
 ## 🌐 Socials:
