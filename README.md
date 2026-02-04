@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Aspiring Data Analytics and Engineering | Python Development | AWS Practioner | Exploring AI Agents 
 
 
