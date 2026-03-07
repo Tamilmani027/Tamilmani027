@@ -1,5 +1,5 @@
 # About Me:
-Aspiring Data Analytics and Engineering | Python Development | AWS Practioner | Exploring AI Agents 
+Python |SQL | Flask | FastAPI | PowerBI | AWS Practioner | 
 
 
 ## 🌐 Socials:
