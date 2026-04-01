@@ -1,5 +1,5 @@
 # About Me:
-Aspiring Data Analyst and Engineering | Python | SQL | Power BI | AWS | Flask | FastAPI | Docker
+Aspiring Data Analyst and Engineering | Python | SQL | Power BI | Flask | FastAPI | Docker | AWS | AI/ML Enthusiast
 
 
 ## 🌐 Socials:
