@@ -1,5 +1,5 @@
 # About Me:
-Aspiring Data Analyst and Engineering | Python | SQL | Power BI | Flask | FastAPI | Docker | AWS | AI/ML Enthusiast
+MCA'26 @SJBIT | I'm passionate about building intelligent systems and data-driven solutions using modern technologies.
 
 
 ## 🌐 Socials:
