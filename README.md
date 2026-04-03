@@ -1,5 +1,5 @@
 # About Me:
-MCA'26 @SJBIT | I'm passionate about building python and data-driven solutions using modern technologies.
+MCA'26 @SJBIT | Aspiring Software Engineer 
 
 
 ## 🌐 Socials:
