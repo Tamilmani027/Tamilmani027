@@ -1,5 +1,5 @@
 # About Me:
-MCA'26 @SJBIT | Aspiring Software Engineer 
+MCA'26 
 
 
 ## 🌐 Socials:
