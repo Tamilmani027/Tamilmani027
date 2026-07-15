@@ -1,8 +1,8 @@
 ## Hi, I'm Tamilmani C 👋
 
-AI & Full-Stack Developer building scalable products.
+AI & Full-Stack Developer building scalable products
 
-**Stack:** Python · FastAPI · NodeJs · React · NextJs · TypeScript · MongoDB · PostgreSQL · MySQL  · AWS · Docker · RAG · LLM
+**Stack:** Python · FastAPI · JavaScript · NodeJs · React · MySQL  · AWS · Docker · RAG · LLM 
 
 ### Contact
 [LinkedIn](https://linkedin.com/in/tamilmani-c27) · [Email](mailto:manims2727@gmail.com)
