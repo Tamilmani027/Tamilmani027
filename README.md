@@ -1,6 +1,6 @@
 ## Hi, I'm Tamilmani C 👋
 
-Aspiring AI & Full-Stack Developer building scalable products
+Aspiring AI & Full-Stack Developer building scalable products 
 
 **Stack:** Python · FastAPI · JavaScript · NodeJs · React · MySQL  · AWS · Docker · RAG · LLM 
 
