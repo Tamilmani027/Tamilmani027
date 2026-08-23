@@ -2,7 +2,37 @@
 
 Aspiring AI & Full-Stack Developer building scalable products 
 
-**Stack:** Python · FastAPI · JavaScript · NodeJs · React · MySQL  · AWS · Docker · RAG · LLM 
+## Frontend
+- React.js  
+- Next.js  
+- JavaScript  
+- TypeScript  
+- Redux  
+
+## Backend
+- Node.js  
+- Python (FastAPI)  
+- REST & GraphQL APIs  
+
+## Database
+- MongoDB  
+- MySQL  
+- ORM (Prisma / SQLAlchemy)  
+- Redis (caching)  
+
+## DevOps / Cloud
+- AWS  
+- Docker
+  
+## AI / ML
+- Retrieval‑Augmented Generation (RAG)  
+- Large Language Models (LLMs)  
+- Vector Databases (ChromaDB)  
+
+## Other Skills
+- Testing (PyTest) 
+- API Documentation (Swagger / OpenAPI)  
+- Security (JWT, OAuth2)  
 
 ### Contact
 [LinkedIn](https://linkedin.com/in/tamilmani-c27) · [Email](mailto:manims2727@gmail.com)
