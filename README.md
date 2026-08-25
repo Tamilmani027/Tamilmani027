@@ -2,7 +2,7 @@
 
 Aspiring AI & Full-Stack Developer building scalable products 
 
-**Frontend:** React.js · Next.js · JavaScript · TypeScript · Redux  
+**Frontend:** React.js · JavaScript · TypeScript · Redux  
 **Backend:** Node.js · Python (FastAPI) · REST APIs  
 **Database:** MongoDB · MySQL · ORM (Prisma/SQLAlchemy) · Redis (caching)  
 **DevOps/Cloud:** AWS · Docker   
