@@ -11,7 +11,7 @@ Aspiring AI & Full-Stack Developer building scalable products
 **Other:** Testing (PyTest) · API Documentation (Swagger) · Security (JWT, OAuth2)
 
 ### Contact
-[LinkedIn](https://linkedin.com/in/tamilmani-c27) · [Email](mailto:manims2727@gmail.com) [Portfolio](https://tamilmani-dev.vercel.app/)
+[LinkedIn](https://linkedin.com/in/tamilmani-c27) · [Email](mailto:manims2727@gmail.com) · [Portfolio](https://tamilmani-dev.vercel.app/)
 
 ### GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=Tamilmani027&theme=default&hide_border=true&count_private=true)
