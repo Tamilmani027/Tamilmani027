@@ -1,6 +1,6 @@
 ## Hi, I'm Tamilmani C 👋
 
-Aspiring AI & Full-Stack Developer building scalable products 
+AI‑powered Full‑Stack Developer crafting scalable solutions and turning ideas into products
 
 **Languages:** JavaScript · Python · SQL  
 **Frontend:** React.js · Tailwind CSS · Redux  
