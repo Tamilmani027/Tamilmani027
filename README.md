@@ -3,8 +3,8 @@
 AI‑powered Full‑Stack Developer crafting scalable solutions and turning ideas into products
 
 **Languages:** JavaScript · Python · SQL  
-**Frontend:** React.js · Tailwind CSS · Redux  
-**Backend:** Node.js · FastAPI · REST APIs  
+**Frontend:** React.js · Tailwind CSS · Redux Toolkit  
+**Backend:** Node.js · Express.js · FastAPI · REST APIs  
 **Database:** MongoDB · MySQL · ORM (Prisma/SQLAlchemy) · Redis (caching)  
 **DevOps/Cloud:** AWS · Docker   
 **AI/ML:** RAG · LLMs · Vector Databases (ChromaDB)  
